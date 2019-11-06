@@ -1,14 +1,14 @@
 {
   "development": {
     "username": "teamuser",
-    "password": "project2",
+    "password": "Vand2019!",
     "database": "exampledb",
     "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
     "username": "teamuser",
-    "password": "project2",
+    "password": "Vand2019!",
     "database": "testdb",
     "host": "localhost",
     "dialect": "mysql",
